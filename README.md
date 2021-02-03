@@ -1,4 +1,4 @@
-## -pythonic_objects
+## Pythonic_objects
 Module for the study of pythonic objects in the [Python pro](https://www.python.pro.br/) pro course.
 
 
